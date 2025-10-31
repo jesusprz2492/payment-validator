@@ -1,2 +1,3 @@
 # Mayor28 zelle validator
- Mayor28's zelle validator app
+App deployed on Azure web app
+https://mayor28zellevalidator.azurewebsites.net/
